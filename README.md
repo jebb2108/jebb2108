@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on web development or anything related to coding, really.
 - 📫 The contacts you could reach me at: gabouchard2002@gmail.com
 - 😄 Pronouns: Its funny but, if necessary, my pronouns are code/monster :)
-- ⚡ Fun fact: My first language was English after I got to Russia in which I grew up.
+- ⚡ Fun fact: My first language was English after I got to Russia in which I grew up later on.
 
 <!---
 jebb2108/jebb2108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
