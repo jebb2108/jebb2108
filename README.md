@@ -1,10 +1,11 @@
 - 👋 Hello, my name's Gabriel Bouchard. I was born in Canada, 2002, and have got a duel citizenship.
 - I`m striving to be helpfull and knowladgable as well as respectfull to my peers.
 - Also interested in web-developing. I speak Russian and English pretty fluently, too. In my spare time, I love playing chess for fun.
-- I’m currently learning SQL and the deeper concepts of OOP programming.
+- I’m currently learning SQL and deeper concepts of OOP programming.
 - My goal of the life is find myself into web development or anything related to soft engeneering.
 - 📫 The contacts you could reach me at are: gabouchard2002@gmail.com & @jebb_king telegram
-- Fun fact: My first language was English after I got to Russia in which I grew up later on.
+- Fun fact: because of all my early yearly years in Canada, my first language has happened to be English after I already got to Russia 
+  in which I grew up later on.
 
 - My CodeWars solutions link: https://www.codewars.com/users/jebb2108/completed_solutions
 <!---
