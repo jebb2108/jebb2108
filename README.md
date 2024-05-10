@@ -4,7 +4,7 @@
 - I’m currently learning SQL and deeper concepts of OOP programming.
 - My goal of the life is find myself into web development or anything related to soft engeneering.
 - 📫 The contacts you could reach me at are: gabouchard2002@gmail.com & @jebb_king telegram
-- Fun fact: because of all my early yearly years in Canada, my first language has happened to be English after I already got to Russia 
+- Fun fact: because of all my early years spent in Canada, my first language has happened to be English after I already got to Russia 
   in which I grew up later on.
 
 - My CodeWars solutions link: https://www.codewars.com/users/jebb2108/completed_solutions
