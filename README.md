@@ -1,5 +1,5 @@
 - 👋 Hello, my name's Gabriel Bouchard. I was born in Canada, 2002, and have got a duel citizenship.
-- I`m striving to be helpfull and knowladgable as well as respectfull to my peers.
+- I`m striving to be consistent in getting work done. A lot of things I achived just being persuasive in my life.
 - Also interested in web-developing. I speak Russian and English pretty fluently, too. In my spare time, I love playing chess for fun.
 - I’m currently learning SQL and deeper concepts of OOP programming.
 - My goal is getting better as much as I can in understanding a digital world.
