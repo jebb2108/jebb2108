@@ -4,7 +4,7 @@
 - Am interested in web-development. In my spare time, I love playing chess.
 - I’m currently learning SQL and deeper concepts of OOP programming.
 - My goal in this year is making two fully-functional webs for my portfolio.
-- In addition to what was said, I have also got a Canadian diploma in English, so I'm able to read and fluently speak English.
+- In addition to what was said, I have also got a Canadian diploma in English, so I'm able to both read and speak fluently in English.
 - Therefore; I will be the necessary part of your team.
 - Feel free to contact me at: gabouchard2002@gmail.com
   
