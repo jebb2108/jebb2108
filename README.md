@@ -1,4 +1,4 @@
-- Hello, my name's Gabriel, 23 years old 👋
+- Hello, my name's Gabriel. I`m 23 years old 👋
 - I`m glad you visited my GitHub page, so let me introduce myself in a few words.
 - I have some hobbies such as learning foreign languages, doing outdoor activities, playing chess
 - and just having fun in my leisure. Shall you be interested in me as an employee, I regularry upload the repos below:
