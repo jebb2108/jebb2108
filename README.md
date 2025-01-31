@@ -1,14 +1,12 @@
-- 👋 Hello, my name's Gabriel Bouchard. 22 years old
+- 👋 Hello, my name's Gabriel Bouchard, 23 years old.
+- I`m glad you visited my GitHub page, so let me introduce muself in a few words.
+- I have some hobbies such as learning foreign languages, doing outdoor activities, playing chess
+- and just having fun in my leisure. Shall you be interested in me as an employee, I regularry upload the repos below:
+- you may want to see my chess game I programmed in Python or the websites, which I made in a swift manner.
+- There is a plenty of things I did in my spare time.
+- You can also check out my CodeWars solutions link: https://www.codewars.com/users/jebb2108/completed_solutions
   
-- All I want is do coding with good quality and effiency.
-- Am interested in web-development. In my spare time, I love playing chess.
-- I’m currently learning SQL and deeper concepts of OOP programming.
-- My goal in this year is making two fully-functional webs for my portfolio.
-- In addition to what was said, I have also got a Canadian diploma in English, so I'm able to both read and speak fluently in English.
-- Therefore; I will be the necessary part of your team.
-- Feel free to contact me at: gabouchard2002@gmail.com
-  
-- My CodeWars solutions link: https://www.codewars.com/users/jebb2108/completed_solutions
+- Feel free to contact me whenever you please at: gabouchard2002@gmail.com
 <!---
 jebb2108/jebb2108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
