@@ -1,7 +1,7 @@
 - Hello, my name's Gabriel. I`m 23 years old 👋
 - I`m glad you visited my GitHub page, so let me introduce myself in a few words :)
 - I have some hobbies such as learning foreign languages, doing outdoor activities, playing chess
-- and just having fun in my leisure. Shall you be interested in me as an employee, I regularry upload the repos below:
+- and just having fun in my leisure. Shall you be interested in hiring me as an employee, I regularry update the repos below:
 - you may want to see my chess game I programmed in Python or the websites, which I made in a swift manner.
 - There is a plenty of things I did in my spare time.
 - You can also check out my CodeWars solutions link: https://www.codewars.com/users/jebb2108/completed_solutions
